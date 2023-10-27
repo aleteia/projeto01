@@ -1,0 +1,28 @@
+.corpo{
+    background-color: floralwhite;
+}
+
+.cabeçalho{
+    border: solid 3px rgba(224, 129, 129, 0.925);
+    color: black;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
+#iIMAGEM1{
+    width: 700px;
+}
+
+.conteudo-listas{
+background-color: bisque;
+color: black;
+text-decoration: italic
+}
+.rodape{
+    background-color: darksalmon;
+    color: antiquewhite;
+    text-align: center;
+    border: double 2px darksalmon;
+}
