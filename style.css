@@ -22,7 +22,7 @@ text-decoration: italic
 }
 .rodape{
     background-color: rgb(192,235,217);
-    color: antiquewhite;
+    color: rgb(138, 86, 17);
     text-align: center;
     border: double 2px rgb(192, 235, 217);
 }
